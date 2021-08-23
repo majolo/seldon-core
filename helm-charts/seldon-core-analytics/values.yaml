@@ -20,6 +20,8 @@ alertmanager:
 rbac:
   enabled: true
 prometheus:
+  alertmanager:
+    configMapOverrideName: alertmanager-configuration
   enabled: true
   service_type: ClusterIP
   server:
