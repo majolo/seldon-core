@@ -10,8 +10,8 @@ require (
 	github.com/imdario/mergo v0.3.12
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
-	github.com/seldonio/seldon-core/components/tls/v2 v2.0.0-00010101000000-000000000000
-	github.com/seldonio/seldon-core/apis/go/v2 v2.0.0-00010101000000-000000000000
+	github.com/seldonio/seldon-core/components/tls/v2 v2.0.0
+	github.com/seldonio/seldon-core/apis/go/v2 v2.0.0
 	github.com/spf13/cobra v1.4.0
 	google.golang.org/grpc v1.49.0
 	google.golang.org/protobuf v1.28.1
